@@ -35,7 +35,7 @@ Welcome to the Python Automation Projects Repository! This repository hosts a co
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/your_username/automation-projects.git
+    git clone https://github.com/Hypercube2426/Python-Automation.git
     ```
 
 2. **Install Dependencies:**
@@ -45,13 +45,10 @@ Welcome to the Python Automation Projects Repository! This repository hosts a co
 
 3. **Navigate to Desired Project Directory:**
     ```
-    cd project_name
+    cd Python-Automation
     ```
 
-4. **Run the Script:**
-    ```
-    python script_name.py
-    ```
+
 
 ## Contribution Guidelines
 
